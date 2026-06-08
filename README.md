@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm P.M.Sachini Kavindi<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a></h1>
-<h3 align="center">passionate IT Student|Exploring the Boundless world of Technology</h3>
+<h3 align="center">Physical Science Undergraduate | Interested in Data Science & Python Projects</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakari79&label=Profile%20views&color=0e75b6&style=flat" alt="sakari79" /> </p>
 
